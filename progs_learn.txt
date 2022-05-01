@@ -1,0 +1,32 @@
+Basic Programs in JAVA 
+OOPS Concepts
+File Handling & IO Management
+Exception Handling & Multithreading
+Search & Sort
+Graphics Programming
+
+-----------------------------------
+
+Palindrome
+Frequency of a given character
+Matrix Multiplication
+
+Inheritance
+Abstract Class
+Garbage Collection
+
+File handling with reader/writer
+File Exception Handling
+String Tokenizer
+
+Try,Catch,Throw & Finally
+Multithreading
+Thread Sync
+
+Doubly Linked List
+Quick Sort
+Binary Search
+
+Swing Calculator
+Swing Traffic Light
+JDBC
